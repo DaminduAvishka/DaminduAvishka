@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Damindu 👋</h1>
+<h1>Hi, I'm Damindu 👋</h1>
 
-<p align="center">
+<p>
   Undergraduate student · Founder of <b>Hypecode Studios</b> · Frontend developer · AI/Cloud explorer
 </p>
 
-<p align="center">
+<p>
   📍 Sri Lanka &nbsp;|&nbsp; 🌐 <a href="https://hypecodestudios.com">hypecodestudios.com</a>
 </p>
 
@@ -37,6 +37,8 @@ A full-service digital agency offering:
 
 ## 💻 Tech Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,7 +46,6 @@ A full-service digital agency offering:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -60,9 +61,3 @@ A full-service digital agency offering:
 - 💼 LinkedIn: [Damindu Avishka](https://www.linkedin.com/in/daminduavishka/)
 
 > 💡 Got a project in mind? Let's build something great together!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
