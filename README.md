@@ -1,4 +1,4 @@
-<h1>Hi, I'm Damindu 👋</h1>
+<h1>Hi, I'm Damindu Avishka👋</h1>
 
 <p>
   Undergraduate student · Founder of <b>Hypecode Studios</b> · Frontend developer · AI/Cloud explorer
